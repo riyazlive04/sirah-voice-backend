@@ -1,0 +1,7 @@
+POST http://localhost:3000/send-message
+Content-Type: application/json
+
+{
+  "call_id": "ff574cba-e3eb-4ef5-8dcd-1575b46e8b95",
+  "user_text": "My name is Riyaz"
+}
